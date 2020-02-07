@@ -1,2 +1,3 @@
 # lightson
-Deploy my own systems in the cloud
+
+Provisioning my own cloud resources
