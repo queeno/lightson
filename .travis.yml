@@ -1,5 +1,6 @@
 language: go
-linux: bionic
+
+sudo: required
 
 before_script:
 - apt update && apt install -y unzip
