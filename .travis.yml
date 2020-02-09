@@ -3,7 +3,7 @@ language: go
 sudo: required
 
 before_script:
-- apt update && apt install -y unzip
+- sudo apt update && sudo apt install -y unzip
 
 script:
 - TF_ZIP=$(go run scripts/download-terraform.go)
