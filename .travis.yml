@@ -8,5 +8,7 @@ before_script:
 script:
 - TF_ZIP=$(go run scripts/download-terraform.go)
 - unzip $TF_ZIP -d /tmp
-- cd infra && /tmp/terraform plan
+- cd infra
+- /tmp/terraform init -upgrade
+- /tmp/terraform plan
 
