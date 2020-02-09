@@ -5,7 +5,7 @@ sudo: required
 before_script:
 - sudo apt update && sudo apt install -y unzip openssl
 - openssl aes-256-cbc -K $encrypted_6cf16dcf04a7_key -iv $encrypted_6cf16dcf04a7_iv
-  -in account.json.enc -out account.json -d
+  -in infra/account.json.enc -out infra/account.json -d
 
 script:
 - TF_ZIP=$(go run scripts/download-terraform.go)
