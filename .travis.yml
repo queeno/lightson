@@ -3,12 +3,13 @@ language: go
 sudo: required
 
 before_script:
-- sudo apt update && sudo apt install -y unzip
+- sudo apt update && sudo apt install -y unzip openssl
+- openssl aes-256-cbc -K $encrypted_6cf16dcf04a7_key -iv $encrypted_6cf16dcf04a7_iv
+  -in account.json.enc -out account.json -d
 
 script:
 - TF_ZIP=$(go run scripts/download-terraform.go)
 - unzip $TF_ZIP -d /tmp
 - cd infra
-- /tmp/terraform init
-- /tmp/terraform apply -auto-approve -lock=true
-
+- "/tmp/terraform init"
+- "/tmp/terraform apply -auto-approve -lock=true"
