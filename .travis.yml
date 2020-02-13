@@ -13,7 +13,7 @@ script:
 - TF_ZIP=$(go run scripts/download-terraform.go)
 - unzip $TF_ZIP -d /tmp
 - cd infra
-- "/tmp/terraform -var google_cred=$GOOGLE_APPLICATION_CREDENTIALS init"
+- "/tmp/terraform init"
 - "/tmp/terraform apply -var google_cred=$GOOGLE_APPLICATION_CREDENTIALS -auto-approve -lock=true"
 
 after_script:
