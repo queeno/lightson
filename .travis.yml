@@ -4,7 +4,7 @@ sudo: required
 
 env: GOOGLE_APPLICATION_CREDENTIALS=/dev/shm/account.json
 
-install:
+before_script:
 - sudo apt update && sudo apt install -y unzip openssl secure-delete
 - openssl aes-256-cbc -K $encrypted_fddb24ed60dc_key -iv $encrypted_fddb24ed60dc_iv
   -in infra/account.json.enc -out $GOOGLE_APPLICATION_CREDENTIALS -d
