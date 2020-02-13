@@ -9,5 +9,5 @@ script:
 - "/tmp/terraform init"
 - "/tmp/terraform apply -auto-approve -lock=true"
 before_install:
-- openssl aes-256-cbc -K $encrypted_6cf16dcf04a7_key -iv $encrypted_6cf16dcf04a7_iv
+- openssl aes-256-cbc -K $encrypted_fddb24ed60dc_key -iv $encrypted_fddb24ed60dc_iv
   -in infra/account.json.enc -out infra/account.json -d
