@@ -2,7 +2,7 @@ language: go
 
 sudo: required
 
-env: GOOGLE_APPLICATION_CREDENTIALS=/dev/shm/account.json
+env: GOOGLE_APPLICATION_CREDENTIALS=/dev/shm/account.json TF_VAR_google_creds=$GOOGLE_APPLICATION_CREDENTIALS
 
 before_script:
 - sudo apt update && sudo apt install -y unzip openssl secure-delete
@@ -14,7 +14,7 @@ script:
 - unzip $TF_ZIP -d /tmp
 - cd infra
 - "/tmp/terraform init"
-- "/tmp/terraform apply -var google_cred=$GOOGLE_APPLICATION_CREDENTIALS -auto-approve -lock=true"
+- "/tmp/terraform apply -auto-approve -lock=true"
 
 after_script:
 - srm $GOOGLE_APPLICATION_CREDENTIALS
