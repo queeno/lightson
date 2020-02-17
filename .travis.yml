@@ -3,7 +3,7 @@ language: go
 sudo: required
 
 env:
-- GOOGLE_APPLICATION_CREDENTIALS=/dev/shm/account.json TF_VAR_google_creds=$GOOGLE_APPLICATION_CREDENTIALS
+- GOOGLE_APPLICATION_CREDENTIALS=/dev/shm/account.json TF_VAR_google_creds=/dev/shm/account.json
 
 before_script:
 - sudo apt update && sudo apt install -y unzip openssl secure-delete
