@@ -1,0 +1,175 @@
+SIMON AQUINO
+Lead DevOps Engineer, Consultant & Team Coach
+
+simon.aquino@gmail.com
++44 (0) 7514 902 489
+linkedin.com/in/simonaquino
+Europe
+
+EXPERIENCE HIGHLIGHTS
+======
+Lead DevOps Engineer (GCP/GKE)
+Loveholidays
+2/2020 - 4/2020
+London, UK
+Loveholidays is a the UK's fastest growing online travel agency, aggregating offers and selling flexible holiday bundles.
+ - Integrated the new Go search engine with GCP/GKE.
+ - Created a Go tool to synchronise DBs in cloud with Kubernetes pods.
+ - Shaped Terraform organisation structure and deployment strategy.
+ - Automated the Kubernetes ecosystem with Kustomize.
+
+Lead DevOps Engineer (GCP/GKE)
+eBay
+5/2019 - 2/2020
+Berlin, Germany
+eBay is an American e-commerce company running digital marketplace platforms to facilitate b2c and c2c sales.
+ - Developed 3 Kubernetes operators in Go: an auto-healing service, a workload identity operator and a deployment service based on Helm3.
+ - Ran five on-site Kubernetes boot camps for developer teams.
+ - Technical presenter for Platform team behalf at company's events.
+ - Deployed Istio in the Kubernetes infrastructure.
+
+Lead DevOps Engineer (AWS)
+Deloitte UK / Danish tax authority 
+2/2018 - Ongoing
+Copenhagen, Denmark
+Deloitte is a global consultancy firm providing technical expertise to Skat, the Danish tax authority, to deliver digital services to citizens.
+ - Technical DevOps Lead on vurderingsportalen.dk, the new online digital service to evaluate dwellings and pay property tax.
+ - From zero to production ready, architected, developed and deployed with Terraform the multi-environment infrastructure solution on AWS, coordinating with development teams based in Denmark and the US.
+ - Self-managed the product backlog and relationship with stakeholders.
+
+Senior DevOps Engineer (AWS) & Team coach
+Element Insurance
+2/2017 - 1/2018
+www.element.in
+Berlin, Germany
+Element is a Fintech insurance startup part of the FinLeap ventures. I came on board upon company formation.
+ - Interim lead role of a cross-functional Scrum Team, coaching the Java developers, charing meetings and acting as technical coordinator.
+ - Transformed the cloud infrastructure from chaos to production ready.
+ - No single infrastructure related failure after two years, team says.
+ - "Cloudyfied" a monolithic Oracle-backed insurance application, TIA.
+ - Consulted with this client on a casual basis thereafter.
+
+Senior DevOps Consultant
+HM Revenue and Customs
+1/2016 - 1/2017
+www.tax.service.gov.uk
+London, UK
+HMRC is the department of the UK Government responsible for the collection of taxes. I worked in the core HMRC DevOps Team.
+ - Automated the VM deployment strategy across different providers, from 1-3 working days to less than 30 minutes.
+ - Worked also with a dev team to re-home about 80 microservices.
+
+DevOps Engineer - TechSolutions
+KPMG UK LLP
+7/2015 - 1/2016
+www.kpmg.com
+London, UK
+KPMG is one of the largest professional services firms in the world.
+ - Created a platform to automate Hadoop deployments for the Data & Analytics team's customers in less than 6 months.
+
+Web Operations Engineer, Gov.uk Verify
+Government Digital Service, Cabinet Office
+4/2014 - 5/2015
+www.gov.uk/verify
+London, UK
+The Government Digital Service is the unit of the Cabinet Office tasked with leading the digital transformation of the UK government.
+ - Acquired full proficiency with DevOps practices in less than one year.
+ - Release process ownership and co-developed a package manager application: github.com/smira/aptly with more than 10 PRs.
+
+Systems Engineer
+DigitasLBi
+7/2012 - 4/2014
+www.digitaslbi.com
+London, UK
+DigitasLBi is a global marketing and technology agency.
+ - Led the migration to VMware ESXi 5, re-architecting the datacenter.
+ - Learnt in 6 months how to fully manage, monitor and operate a DC.
+
+Corporate Operations Engineer (intern)
+Google
+5/2010 - 9/2011
+www.google.com
+Dublin, Republic of Ireland & London, UK
+Onboard at TechStop, the internal Google IT help desk.
+ - Received 9 peer bonuses from Google employees for excellent work.
+
+
+Languages
+======
+English
+
+Italian
+
+German
+
+Danish
+
+
+Summary
+======
+Well-rounded technologist, adaptable, disruptive, keen on continuous learning, delivery focused with an emphasis on code quality and adding business value.My main skill? Agility in dealing with ever changing environments.My passions? Cutting-edge technologies especially AWS, GCP, Kubernetes, Docker, Go and Python.My technical expertise is centred around DevOps practices, automation, software development, infrastructure as code, contenerisation, CI/CD, SRE and datacentre operations.I do not portray myself as a vendor specialist: I can quickly grasp the underlying concepts behind common implementations and drive my clients' technical decisions in order to achieve their business objectives.I have acted as technical lead in Dev and Ops teams, in startups and larger organisations, across various industries, in a number of European countries.I have managed my team's product backlog and liaised with stakeholders.I have spoken in public events and I am active in the open source community.In life and at work I strive to exercise my passions, to realise my potential and to overcome my limits.
+
+
+Education
+======
+Computer Science and Electronics, MEng (Hons)
+University of Bristol
+2008 - 2012
+Bristol, UK
+
+
+Skills
+======
+Dev
+ - Go
+ - Python
+ - Ruby
+ - Bash
+ - C
+
+Ops 
+ - AWS
+ - GCP
+ - Linux
+ - Terraform
+ - Packer
+ - CoreOS
+ - Prometheus
+ - Linux
+ - Docker
+ - Kubernetes
+ - Istio
+ - Ansible
+ - Puppet
+ - ELK
+
+
+Strengths
+======
+Adaptability
+Relocated to a number of countries.
+Worked in numerous teams as contractor.
+Very keen on XP working practices.
+
+Fast Learning
+Can learn new tools or languages in days.
+
+Entrepreneurship
+Always use all my abilities to the full.
+Never stop experimenting new things.
+Public speaker.
+
+
+MOSTLY PROUD OF
+======
+Writing my first program at 10
+In QuickBASIC. It was a library management app backed by a text file as DB. Insert, search, delete.
+
+
+Find me online
+======
+Linkedin
+linkedin.com/in/simonaquino
+
+GitHub
+github.com/queeno
+
