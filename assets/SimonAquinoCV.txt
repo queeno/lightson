@@ -131,8 +131,8 @@ Ops
  - GCP
  - Linux
  - Terraform
- - Packer
- - CoreOS
+ - Kustomize
+ - Helm
  - Prometheus
  - Linux
  - Docker
