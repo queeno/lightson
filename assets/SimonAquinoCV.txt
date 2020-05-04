@@ -134,7 +134,7 @@ Ops
  - Kustomize
  - Helm
  - Prometheus
- - Linux
+ - Jenkins
  - Docker
  - Kubernetes
  - Istio
