@@ -11,14 +11,14 @@ resource "google_storage_bucket_object" "cv_pdf" {
   name   = "simon-aquino-cv.pdf"
   source = "../assets/SimonAquinoCV.pdf"
   bucket = google_storage_bucket.simon_public.name
-  cache_control = "max-age=0"
+  cache_control = "no-store"
 }
 
 resource "google_storage_bucket_object" "cv_txt" {
   name   = "simon-aquino-cv.txt"
   source = "../assets/SimonAquinoCV.txt"
   bucket = google_storage_bucket.simon_public.name
-  cache_control = "max-age=0"
+  cache_control = "no-store"
 }
 
 resource "google_storage_object_access_control" "cv_pdf" {
