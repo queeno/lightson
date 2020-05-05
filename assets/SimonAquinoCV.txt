@@ -30,7 +30,7 @@ eBay is an American e-commerce company running digital marketplace platforms to 
 
 Lead DevOps Engineer (AWS)
 Deloitte UK / Danish tax authority 
-2/2018 - Ongoing
+2/2018 - 3/2019
 Copenhagen, Denmark
 Deloitte is a global consultancy firm providing technical expertise to Skat, the Danish tax authority, to deliver digital services to citizens.
  - Technical DevOps Lead on vurderingsportalen.dk, the new online digital service to evaluate dwellings and pay property tax.
