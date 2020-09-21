@@ -10,17 +10,17 @@ EXPERIENCE HIGHLIGHTS
 ======
 Lead DevOps Engineer (GCP/GKE)
 Loveholidays
-2/2020 - 4/2020
+03/2020 - Ongoing
 London, UK
 Loveholidays is a the UK's fastest growing online travel agency, aggregating offers and selling flexible holiday bundles.
- - Integrated the new Go search engine with GCP/GKE.
- - Created a Go tool to synchronise DBs in cloud with Kubernetes pods.
- - Shaped Terraform organisation structure and deployment strategy.
- - Automated the Kubernetes ecosystem with Kustomize.
+ - Embedded in a dev team: worked on improving performance of SpringBoot/Java and Go apps in Kubernetes (now ~30% faster).
+ - Developed and maintained business-critical Go apps.
+ - Created a web-based Go tool to automate application load and stress testing, in order to identify operational limits based on actual usage. 
+ - Shaped GCP/cloud deployment strategy a 2000+ pod Kubernetes production cluster. Advised on cloud security.
 
 Lead DevOps Engineer (GCP/GKE)
 eBay
-5/2019 - 2/2020
+06/2019 - 03/2020
 Berlin, Germany
 eBay is an American e-commerce company running digital marketplace platforms to facilitate b2c and c2c sales.
  - Developed 3 Kubernetes operators in Go: an auto-healing service, a workload identity operator and a deployment service based on Helm3.
@@ -30,16 +30,15 @@ eBay is an American e-commerce company running digital marketplace platforms to 
 
 Lead DevOps Engineer (AWS)
 Deloitte UK / Danish tax authority 
-2/2018 - 3/2019
+03/2018 - 04/2019
 Copenhagen, Denmark
 Deloitte is a global consultancy firm providing technical expertise to Skat, the Danish tax authority, to deliver digital services to citizens.
  - Technical DevOps Lead on vurderingsportalen.dk, the new online digital service to evaluate dwellings and pay property tax.
  - From zero to production ready, architected, developed and deployed with Terraform the multi-environment infrastructure solution on AWS, coordinating with development teams based in Denmark and the US.
- - Self-managed the product backlog and relationship with stakeholders.
 
 Senior DevOps Engineer (AWS) & Team coach
 Element Insurance
-2/2017 - 1/2018
+03/2017 - 02/2018
 www.element.in
 Berlin, Germany
 Element is a Fintech insurance startup part of the FinLeap ventures. I came on board upon company formation.
@@ -51,7 +50,7 @@ Element is a Fintech insurance startup part of the FinLeap ventures. I came on b
 
 Senior DevOps Consultant
 HM Revenue and Customs
-1/2016 - 1/2017
+02/2016 - 02/2017
 www.tax.service.gov.uk
 London, UK
 HMRC is the department of the UK Government responsible for the collection of taxes. I worked in the core HMRC DevOps Team.
@@ -60,7 +59,7 @@ HMRC is the department of the UK Government responsible for the collection of ta
 
 DevOps Engineer - TechSolutions
 KPMG UK LLP
-7/2015 - 1/2016
+08/2015 - 02/2016
 www.kpmg.com
 London, UK
 KPMG is one of the largest professional services firms in the world.
@@ -68,7 +67,7 @@ KPMG is one of the largest professional services firms in the world.
 
 Web Operations Engineer, Gov.uk Verify
 Government Digital Service, Cabinet Office
-4/2014 - 5/2015
+05/2014 - 06/2015
 www.gov.uk/verify
 London, UK
 The Government Digital Service is the unit of the Cabinet Office tasked with leading the digital transformation of the UK government.
@@ -77,7 +76,7 @@ The Government Digital Service is the unit of the Cabinet Office tasked with lea
 
 Systems Engineer
 DigitasLBi
-7/2012 - 4/2014
+08/2012 - 05/2014
 www.digitaslbi.com
 London, UK
 DigitasLBi is a global marketing and technology agency.
@@ -86,7 +85,7 @@ DigitasLBi is a global marketing and technology agency.
 
 Corporate Operations Engineer (intern)
 Google
-5/2010 - 9/2011
+06/2010 - 10/2011
 www.google.com
 Dublin, Republic of Ireland & London, UK
 Onboard at TechStop, the internal Google IT help desk.
