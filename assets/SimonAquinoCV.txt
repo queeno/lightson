@@ -16,7 +16,7 @@ Loveholidays is a the UK's fastest growing online travel agency, aggregating off
  - Embedded in a dev team: worked on improving performance of SpringBoot/Java and Go apps in Kubernetes (now ~30% faster).
  - Developed and maintained business-critical Go apps.
  - Created a web-based Go tool to automate application load and stress testing, in order to identify operational limits based on actual usage. 
- - Shaped GCP/cloud deployment strategy a 2000+ pod Kubernetes production cluster. Advised on cloud security.
+ - Shaped GCP/cloud deployment strategy and administered a 2000+ pod Kubernetes production cluster. Advised on cloud security topics.
 
 Lead DevOps Engineer (GCP/GKE)
 eBay
