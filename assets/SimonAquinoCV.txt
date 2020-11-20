@@ -8,9 +8,16 @@ London, UK
 
 EXPERIENCE HIGHLIGHTS
 ======
+Principal Consultant (Azure/AKS)
+Microsoft
+11/2020 - Ongoing
+London, UK
+Microsoft is an American technology company. This is a 40-day contract.
+ - I am part of the Microsoft advisory team. I am consulting with one of their key financial clients on an Azure/Kubernetes migration project.
+
 Lead DevOps Engineer (GCP/GKE)
 Loveholidays
-03/2020 - Ongoing
+03/2020 - 10/2020
 London, UK
 Loveholidays is a the UK's fastest growing online travel agency, aggregating offers and selling flexible holiday bundles.
  - Embedded in a dev team: worked on improving performance of SpringBoot/Java and Go apps in Kubernetes (now ~30% faster).
@@ -24,16 +31,13 @@ eBay
 Berlin, Germany
 eBay is an American e-commerce company running digital marketplace platforms to facilitate b2c and c2c sales.
  - Developed 3 Kubernetes operators in Go: an auto-healing service, a workload identity operator and a deployment service based on Helm3.
- - Ran five on-site Kubernetes boot camps for developer teams.
- - Technical speaker on behalf of the Platform team at company's events.
- - Deployed Istio in the internal Kubernetes infrastructure.
+ - Ran eBay critical production clusters and gave k8s training to teams.
 
 Lead DevOps Engineer (AWS)
 Deloitte UK / Danish tax authority 
 03/2018 - 04/2019
 Copenhagen, Denmark
 Deloitte is a global consultancy firm providing technical expertise to Skat, the Danish tax authority, to deliver digital services to citizens.
- - Technical DevOps Lead on vurderingsportalen.dk, the new online digital service to evaluate dwellings and pay property tax.
  - From zero to production ready, architected, developed and deployed with Terraform the multi-environment infrastructure solution on AWS, coordinating with development teams based in Denmark and the US.
 
 Senior DevOps Engineer (AWS) & Team coach
@@ -41,12 +45,9 @@ Element Insurance
 03/2017 - 02/2018
 www.element.in
 Berlin, Germany
-Element is a Fintech insurance startup part of the FinLeap ventures. I came on board upon company formation.
+Element is a Fintech insurance startup part of the FinLeap ventures.
  - Interim lead role of a cross-functional Scrum Team, coaching the Java developers, charing meetings and acting as technical coordinator.
- - Transformed the cloud infrastructure from chaos to production ready.
- - No single infrastructure related failure after two years, team says.
- - "Cloudyfied" a monolithic Oracle-backed insurance application, TIA.
- - Consulted with this client on a casual basis thereafter.
+ - Implemented the AWS infrastructure from chaos to production ready.
 
 Senior DevOps Consultant
 HM Revenue and Customs
