@@ -8,18 +8,25 @@ London, UK
 
 EXPERIENCE HIGHLIGHTS
 ======
+Lead DevOps Engineer (AWS/EKS) - Head of VP
+Deloitte / Danish tax authority 
+03/2018 - Ongoing
+Copenhagen, Denmark
+Deloitte is a global consultancy firm providing technical expertise to Skat, the Danish tax authority, to deliver digital services to citizens.
+ - From zero to production ready, architected, developed and deployed with Terraform the multi-environment infrastructure solution on AWS, coordinating with development teams based in Denmark and the US.
+
 Principal Consultant (Azure/AKS)
-Microsoft
-11/2020 - Ongoing
+Microsoft / Thomson Reuters / Refinitiv
+11/2020 - 03/2021
 London, UK
-Microsoft is an American technology company. This is a 40-day contract.
- - I am part of the Microsoft advisory team. I am consulting with one of their key financial clients on an Azure/Kubernetes migration project.
+Microsoft is an American technology company.
+ - Offered advice on migrating a legacy trading application from on-premise to Azure/AKS focusing on security, resiliency and data storage.
 
 Lead DevOps Engineer (GCP/GKE)
 Loveholidays
 03/2020 - 10/2020
 London, UK
-Loveholidays is a the UK's fastest growing online travel agency, aggregating offers and selling flexible holiday bundles.
+Loveholidays is the UK's fastest growing online travel agency, aggregating offers and selling flexible holiday bundles.
  - Embedded in a dev team: worked on improving performance of SpringBoot/Java and Go apps in Kubernetes (now ~30% faster).
  - Developed and maintained business-critical Go apps.
  - Created a web-based Go tool to automate application load and stress testing, in order to identify operational limits based on actual usage. 
@@ -33,20 +40,13 @@ eBay is an American e-commerce company running digital marketplace platforms to 
  - Developed 3 Kubernetes operators in Go: an auto-healing service, a workload identity operator and a deployment service based on Helm3.
  - Ran eBay critical production clusters and gave k8s training to teams.
 
-Lead DevOps Engineer (AWS)
-Deloitte UK / Danish tax authority 
-03/2018 - 04/2019
-Copenhagen, Denmark
-Deloitte is a global consultancy firm providing technical expertise to Skat, the Danish tax authority, to deliver digital services to citizens.
- - From zero to production ready, architected, developed and deployed with Terraform the multi-environment infrastructure solution on AWS, coordinating with development teams based in Denmark and the US.
-
 Senior DevOps Engineer (AWS) & Team coach
 Element Insurance
 03/2017 - 02/2018
 www.element.in
 Berlin, Germany
 Element is a Fintech insurance startup part of the FinLeap ventures.
- - Interim lead role of a cross-functional Scrum Team, coaching the Java developers, charing meetings and acting as technical coordinator.
+ - Interim lead role of a cross-functional Scrum Team, coaching the Java developers, chairing meetings and acting as technical coordinator.
  - Implemented the AWS infrastructure from chaos to production ready.
 
 Senior DevOps Consultant
@@ -113,7 +113,7 @@ Education
 ======
 Computer Science and Electronics, MEng (Hons)
 University of Bristol
-2008 - 2012
+01/2008 - 01/2012
 Bristol, UK
 
 
