@@ -2,3 +2,6 @@ account.json
 .idea/
 .terraform/
 .DS_Store
+.terraform.lock.hcl
+errored.tfstate
+roh-scout.zip

@@ -1,10 +1,10 @@
 resource "google_storage_bucket" "simon_core_terraform" {
-  name = "simon-core-terraform"
+  name     = "simon-core-terraform"
   location = "us-east1"
 
-   versioning {
-     enabled = true
-   }
+  versioning {
+    enabled = true
+  }
 }
 
 resource "google_service_account" "terraform" {
