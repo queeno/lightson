@@ -1,5 +1,5 @@
 SIMON AQUINO
-Cloud Native Lead DevOps, Consultant & Team Coach
+Cloud Native DevOps Lead & Consultant
 
 simon.aquino@gmail.com
 +44 (0) 7514 902 489
@@ -8,21 +8,32 @@ London, UK
 
 EXPERIENCE HIGHLIGHTS
 ======
-Lead DevOps Engineer (AWS/EKS) - Head of VP
+Cloud Enablement team lead & Principal Consultant
+JPMorgan Chase / Core Consulting Engineering Group (CECG)
+03/2023 - Ongoing
+London, UK
+JP Morgan is the largest American bank.
+ - Architected and developed the foundations of a GCP-based platform subsequently chosen for global firm-wide adoption at JP Morgan.
+ - Designed and developed landing zones for the platform, driving the adoption of a 500+ unit department.
+ - Managed a team of 10 engineers, which included Google consultants. I established the cloud foundations and ensured security compliance.
+ - Led the initiative to ensure platform alignment to JP's security controls.
+
+Lead DevOps Engineer (AWS) - Head of VP
 Deloitte / Danish tax authority 
-03/2018 - Ongoing
+03/2021 - 03/2023
 Copenhagen, Denmark
 Deloitte is a global consultancy firm providing technical expertise to Skat, the Danish tax authority, to deliver digital services to citizens.
  - From zero to production ready, architected, developed and deployed with Terraform the multi-environment infrastructure solution on AWS, coordinating with development teams based in Denmark and the US.
+ - Led a comprehensive training initiative for a small team of engineers, equipping them with the skills to seamlessly take over infra operations.
 
-Principal Consultant (Azure/AKS)
+Principal Consultant (Azure)
 Microsoft / Thomson Reuters / Refinitiv
 11/2020 - 03/2021
 London, UK
 Microsoft is an American technology company.
  - Offered advice on migrating a legacy trading application from on-premise to Azure/AKS focusing on security, resiliency and data storage.
 
-Lead DevOps Engineer (GCP/GKE)
+Lead DevOps Engineer (GCP)
 Loveholidays
 03/2020 - 10/2020
 London, UK
@@ -32,7 +43,7 @@ Loveholidays is the UK's fastest growing online travel agency, aggregating offer
  - Created a web-based Go tool to automate application load and stress testing, in order to identify operational limits based on actual usage. 
  - Shaped GCP/cloud deployment strategy and administered a 2000+ pod Kubernetes production cluster. Advised on cloud security topics.
 
-Lead DevOps Engineer (GCP/GKE)
+Lead DevOps Engineer (GCP)
 eBay
 06/2019 - 03/2020
 Berlin, Germany
@@ -58,7 +69,7 @@ HMRC is the department of the UK Government responsible for the collection of ta
  - Automated the VM deployment strategy across different providers, from 1-3 working days to less than 30 minutes.
  - Worked also with a dev team to re-home about 80 microservices.
 
-DevOps Engineer - TechSolutions
+DevOps Engineer - Techsolutions
 KPMG UK LLP
 08/2015 - 02/2016
 www.kpmg.com
@@ -93,27 +104,24 @@ Onboard at TechStop, the internal Google IT help desk.
  - Received 9 peer bonuses from Google employees for excellent work.
 
 
-Languages
+Certification
 ======
-English
-
-Italian
-
-German
-
-Danish
+Google Cloud Certified Professional Architect 
+Google - Jun 2023
 
 
 Summary
 ======
-Well-rounded technologist, adaptable, disruptive, keen on continuous learning, delivery focused with an emphasis on code quality and adding business value.My main skill? Agility in dealing with fast-paced, ever-changing environments.My passions? Cloud native technologies such as AWS, GCP, Kubernetes, Docker, Go and Python.My technical expertise is centred around DevOps practices and cloud native computing, software development, infrastructure as code, contenerisation, CI/CD, SRE and datacentre operations.I do not portray myself as a vendor specialist: I can quickly grasp the underlying concepts behind common implementations and drive my clients' technical decisions in order to achieve their business objectives.I have acted as technical lead in Dev and Ops teams, in startups and larger organisations, across various industries and in a number of European countries.I have managed my team's product backlog and liaised with stakeholders.I have spoken in public events and I am active in the open source community.In life and at work I strive to exercise my passions, to realise my potential and to overcome my limits.
+I am a versatile technical leader, known for adaptability, a disruptive mindset, and a passion for continuous learning.My expertise lies in navigating fast-paced, ever-changing environments with agility. I am deeply committed to delivering high-quality code and adding significant business value.My technical passions revolve around cloud-native technologies, including AWS, GCP, Kubernetes, Go, and Python.My core competencies encompass DevOps practices, cloud-native computing, software development, infrastructure as code, containerisation, CI/CD, SRE, and data centre operations.Rather than positioning myself as a vendor specialist, I excel in quickly grasping the underlying concepts behind common implementations. This enables me to drive my clients' technical decisions, aligning with their business objectives.I have served as a technical leader in both fintech startups and larger organisational settings, spanning various industries and European countries. In these roles, I have successfully managed my team's product backlog and fostered strong relationships with stakeholders.Additionally, I've actively contributed to the open-source community and spoken at public events.In both life and work, I am dedicated to exercising my passions, realising my potential, and continually pushing my limits.
+
+What am I looking for?Enacting my passion for technology.A lively, open, collaborative and dynamic environment with sharp-minded individuals, offering daily diversity and excitement.Leading the development of an innovative product resolving valuable human challenges.Guiding co-workers to realise their potential, through training or mentoring.Advancing in my career and refining my expertise in domains such as leadership, fintech, artificial intelligence and blockchain.Autonomy in decision making.Preference for travel or relocation opportunities.
 
 
 Education
 ======
 Computer Science and Electronics, MEng (Hons)
 University of Bristol
-01/2008 - 01/2012
+2008 - 2012
 Bristol, UK
 
 
@@ -131,7 +139,7 @@ Ops
  - GCP
  - Linux
  - Terraform
- - Kustomize
+ - Crossplane
  - Helm
  - Prometheus
  - Jenkins
@@ -139,37 +147,35 @@ Ops
  - Kubernetes
  - Istio
  - Ansible
- - Puppet
- - ELK
+ - ArgoCD
+ - GitOps
 
 
 Strengths
 ======
 Adaptability
-Relocated to a number of countries.
-Worked in numerous teams as contractor.
-Very keen on XP working practices.
+Relocated to a number of countries.Worked in numerous teams as contractor.Excel in fast-paced environments with ever-changing requirements.
 
 Fast Learning
 Can learn new tools or languages in days.
 
-Entrepreneurship
-Always use all my abilities to the full.
-Never stop experimenting new things.
-Public speaker.
+Problem solving
+Devise the optimal solution to any given problem given the constraints.
+
+
+Languages
+======
+English
+
+Italian
+
+German
+
+Danish
 
 
 MOSTLY PROUD OF
 ======
 Writing my first program at 10
-In QuickBASIC. It was a library management app backed by a text file as DB. Insert, search, delete.
-
-
-Find me online
-======
-Linkedin
-linkedin.com/in/simonaquino
-
-GitHub
-github.com/queeno
+In Quick BASIC. It was a library management app backed by a text file as DB. Insert, search, delete.
 
